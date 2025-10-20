@@ -1,3 +1,6 @@
 [submodule "MoneyLink_IOC"]
 	path = MoneyLink_IOC
 	url = https://github.com/ferter3006/MoneyLink_IOC
+[submodule "MoneyLink"]
+	path = MoneyLink
+	url = https://github.com/CRUMMENS/MoneyLink
