@@ -4,3 +4,6 @@
 [submodule "MoneyLink"]
 	path = MoneyLink
 	url = https://github.com/CRUMMENS/MoneyLink
+[submodule "AppMovil"]
+	path = AppMovil
+	url = https://github.com/rob-21-os/AppMovil
