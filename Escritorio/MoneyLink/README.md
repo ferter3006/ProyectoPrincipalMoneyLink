@@ -1,2 +1,0 @@
-# MoneyLink
-Gestor de gastos. 
